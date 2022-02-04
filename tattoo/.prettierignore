@@ -1,0 +1,7 @@
+src/**/__tests__/**
+src/react-app-env.d.ts
+node_modules
+.vscode/**
+build/**
+src/stories
+.storybook
